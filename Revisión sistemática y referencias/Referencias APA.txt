@@ -1,0 +1,57 @@
+Almeida, R. C., Bastos, B. Q., y Santos, D. (2021). Practical application of artificial neural networks to
+wind-power prediction in brazilian territory. doi: 10.1109/IJCNN52387.2021.9533425
+
+Bai, S., Kolter, J. Z., y Koltun, V. (2018). An empirical evaluation of generic convolutional and recurrent
+networks for sequence modeling. arXiv preprint arXiv:1803.01271 , abs/1803.01271 , 1–17. doi: 10.48550/arXiv.1803.01271
+
+Bastos, B. Q., Cyrino Oliveira, F. L., y Milidiú, R. L. (2021a). Componentnet: Processing u- and v-
+components for spatio-temporal wind speed forecasting. Electric Power Systems Research, 192 , 106922.
+doi: 10.1016/j.epsr.2020.106922
+
+Bastos, B. Q., Cyrino Oliveira, F. L., y Milidiú, R. L. (2021b). U-convolutional model for spatio-temporal
+wind speed forecasting. International Journal of Forecasting, 37 (2), 949–970. doi: 10.1016/j.ijforecast.2020.10.007
+
+Camelo, H. d. N., Lucio, P. S., LealJunior, J. B. V., dos Santos, D. v. G., y de Carvalho, P. C. M. (2018).
+Innovative hybrid modeling of wind speed prediction involving time-series models and artificial neural
+networks. Atmosphere, 9 (2), 77. doi: 10.3390/atmos9020077
+
+Costa, M., Ruiz-Cárdenas, R., y Mineti, L. B. (2021). Dynamic time-scan forecasting for multi-step wind
+speed prediction. Renewable Energy, 177 , 584–595. doi: 10.1016/j.renene.2021.05.160
+
+Dematte, R., Gandolfo Raso, E., y Huespe, J. (2023). Wind statistical characterization in mendoza province,
+argentina. WSEAS Transactions on Environment and Development, 19 , 1392–1405. doi: 10.37394/232015.2023.19.126
+
+Goulart, A. J. H., y de Camargo, R. (2021). On data selection for training wind forecasting neural networks.
+Computers and Geosciences, 155 , 104825. doi: 10.1016/j.cageo.2021.104825
+
+Hung, F.-y. (2025). Introduction to air pressure (part ii). Descargado 2025-07-04, de https://
+www.weather.gov.hk/en/education/weather/meteorology-basics/00117-introduction-to-air-pressure-part-ii.html
+
+James, G., Witten, D., Hastie, T., y Tibshirani, R. (2013). An introduction to statistical learning with
+applications in r. New York: Springer.
+
+Khosravi, A., Machado, L., y Nunes, R. O. (2018). Time-series prediction of wind speed using machine
+learning algorithms: A case study osório wind farm, brazil. Applied Energy, 224 , 550–566. doi: 10.1016/j.apenergy.2018.05.043
+
+Korn, G. A., y Korn, T. M. (2000). Mathematical handbook for scientists and engineers: Definitions, theorems,
+and formulas for reference and review (3.a ed.). New York: Dover Publications. (Apéndice B9: Plane and Spherical Trigonometry)
+
+Lazzús, J. A., y Salfate, I. (2017). Long-term prediction of wind speed in la serena city (chile) using
+hybrid neural network–particle swarm algorithm. Earth Sciences Research Journal , 21 (1), 29–35. doi:10.15446/esrj.v21n1.50337
+
+Maroneze, R., Costa, F. D., y Acevedo, O. C. (2023). A new stable boundary-layer parameterization for
+weather and forecasting models: A heat-flux budget approach. Boundary-Layer Meteorology, 188 , 209–235. doi: 10.1007/s10546-023-00810-4
+
+Miguel, J. V. P., Fadigas, E. A., y Sauer, I. L. (2019). The influence of the wind measurement campaign
+duration on a measure-correlate-predict (mcp)-based wind resource assessment. Energies, 12 (19), 3606. doi: 10.3390/en12193606
+
+Silva, D., y Lima, C. (2018). Brazilian northeast jet stream: Frequency, wind speed and direction. Meteoro-
+logical Applications, 25 , 589–599. doi: 10.1002/met.1688
+
+Silva, J. R., Dias, F. G., y Moreira, C. A. (2022). Wind speed prediction study: Practical application of
+ann to energy production in brazilian territory. En S. Ahuja (Ed.), Advances in intelligent systems and
+computing. Springer. doi: 10.1007/978-3-030-96302-6_59
+
+Soares da Silva, M., Dragaud, I. C. D. V., y Jacinto, L. d. F. R. (2024). Operational wind forecast over
+the offshore campos basin and adjacent coastal region in brazil: Support for the oil and gas industry
+toward renewable energy transition. Journal of Ocean Engineering and Marine Energy, 10 , 589–610. doi: 10.1007/s40722-024-00332-2
